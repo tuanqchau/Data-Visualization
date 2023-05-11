@@ -1,0 +1,37 @@
+/*
+ * HW7
+ * ScatterPlot component CSS source code
+ *
+ * Author: Denis Gracanin
+ * Version: 1.0
+
+ */
+
+svg {
+    font-family: Arial;
+    text-anchor: middle;
+}
+
+#title {
+    font-size: 3pt;
+    fill: black;
+}
+
+#labels, #values {
+    font-size: 1pt;
+    fill: grey;
+}
+
+#lines {
+    stroke: silver;
+    stroke-width: 0.1pt;
+}
+
+#bars {
+    fill: dodgerblue;
+}
+
+#x-label, #y-label {
+    font-size: 1.2pt;
+
+}

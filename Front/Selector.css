@@ -1,0 +1,82 @@
+/*
+ CSS component for Selector
+ Author: Tuan Chau
+ Project 1
+ */
+.File {
+
+    margin: 10px;
+    padding-right: 150px;
+}
+.file-edit-container {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+.Edit {
+    padding-left: 150px;
+    margin: 10px;
+
+}
+.file-edit-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.file-title {
+    font-family: Calibri;
+    padding-right: 330px;
+    color: darkslateblue;
+}
+.edit-title {
+    padding-left: 330px;
+    font-family: Calibri;
+    color: darkslateblue;
+}
+
+#new-year, #new-population {
+    width: 150px;
+    positiom: center;
+}
+
+.add-button-container {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.x-input {
+    margin: 5px;
+}
+.y-input {
+    margin: 5px;
+}
+
+.element-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 90px;
+}
+.x-ele {
+    padding-right: 100px;
+    margin: 10px;
+}
+.y-ele {
+    padding: 20px;
+    margin: 10px;
+}
+.remove-button {
+    padding-left: 10px;
+
+    margin-top: 20px;
+}
+.file-edit {
+    border-style: solid;
+    border-width: thick;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px ;
+    color: darkslateblue;
+
+}
+
